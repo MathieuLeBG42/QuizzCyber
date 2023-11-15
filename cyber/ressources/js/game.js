@@ -30,7 +30,7 @@ let questions = [
     {
         question: 'Que faire une fois que l\'on a fini de sauvegarder ses données ? ',
         choice1: 'Mettre le support dans un coffre blindé',
-        choice2: 'Rien, j\'ai finis',
+        choice2: 'Rien, j\'ai fini',
         choice3: 'Détruire le support rapidement',
         choice4: 'Déconnecter ou rendre hors-ligne le support de sauvegarde',
         answer: 4,
@@ -105,7 +105,7 @@ let questions = [
         choice2: 'Le pirate laisse toujours une signature pour prévenir ses victimes',
         choice3: 'Ce n\'est pas grave, un simple mail ne peut pas me nuire',
         choice4: 'Je vérifie d\'abord l\'adresse puis le contenu du mail',
-        answer: 1,
+        answer: 4,
     },
     {
         question: 'Vous recevez un mail de : www.impots.gov.fr. Cliquez-vous sur le lien ?',
